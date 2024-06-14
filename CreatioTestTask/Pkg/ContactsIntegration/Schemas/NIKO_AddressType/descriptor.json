@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "13fbc00b-618f-445c-82b5-7f739a639b2b",
+    "Name": "NIKO_AddressType",
+    "ModifiedOnUtc": "\/Date(1718051714000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "AddressType"
+  }
+}

@@ -1,0 +1,96 @@
+= MetaData.Schema.UId "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199"
+= MetaData.Schema.A2 "NIKO_PaymentSchedule"
+= MetaData.Schema.A5 "0239ad91-2539-49da-94f6-08768a2001a6"
+= MetaData.Schema.B6 "2c0d782c-eb19-0350-4773-a9af3b00c984"
+= MetaData.Schema.B8 "7.18.5.1501"
+= MetaData.Schema.EG1.UId "f1e06a1a-3a94-423c-8d19-90dad4e23c54"
+= MetaData.Schema.EG1.A2 "NIKO_PaymentScheduleEventsProcess"
+= MetaData.Schema.EG1.A5 "0239ad91-2539-49da-94f6-08768a2001a6"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1501"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.D17 true
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D2 {
+  "UId": "c27301c2-577d-4522-9fe3-789e5b86f883",
+  "A2": "NIKO_Contact",
+  "A3": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A4": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A5": "0239ad91-2539-49da-94f6-08768a2001a6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E5": false,
+  "E9": true,
+  "E17": "NIKO_ContactId",
+  "E18": "NIKO_ContactName"
+}
++ MetaData.Schema.D2 {
+  "UId": "6b0d9140-9f84-cb07-86b9-54585ec2e908",
+  "A2": "NIKO_Phone",
+  "A3": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A4": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A5": "0239ad91-2539-49da-94f6-08768a2001a6",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "08c63811-d0d2-2adc-ddf1-7fbd7cabe0d3",
+  "A2": "NIKO_Email",
+  "A3": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A4": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A5": "0239ad91-2539-49da-94f6-08768a2001a6",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "c1135206-3904-b0ba-f9d7-c08e15a1039e",
+  "A2": "NIKO_PaymentDateTime",
+  "A3": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A4": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A5": "0239ad91-2539-49da-94f6-08768a2001a6",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44",
+  "E2": 1
+}
++ MetaData.Schema.D2 {
+  "UId": "63213534-1188-ff08-968a-c3a5ed8d94e2",
+  "A2": "NIKO_Sum",
+  "A3": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A4": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A5": "0239ad91-2539-49da-94f6-08768a2001a6",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd",
+  "E2": 1
+}
++ MetaData.Schema.D2 {
+  "UId": "282042a4-d963-597c-3421-5dc41b4f7282",
+  "A2": "NIKO_PaymentPurpose",
+  "A3": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A4": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+  "A5": "0239ad91-2539-49da-94f6-08768a2001a6",
+  "S2": "5ca35f10-a101-4c67-a96a-383da6afacfc",
+  "E19": true
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","c27301c2-577d-4522-9fe3-789e5b86f883","6b0d9140-9f84-cb07-86b9-54585ec2e908","08c63811-d0d2-2adc-ddf1-7fbd7cabe0d3","c1135206-3904-b0ba-f9d7-c08e15a1039e","63213534-1188-ff08-968a-c3a5ed8d94e2","282042a4-d963-597c-3421-5dc41b4f7282"]
+= MetaData.Schema.D20.A2 "NIKO_PaymentScheduleEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

@@ -1,0 +1,31 @@
+# Need to create volumes that will have new code for service
+# Prob add RabbitMQ if some problem occurse when creatio is not available. 
+# Put in queue and try to push with some time.
+# In creatio will need to create an object that will be called as ContactsSyncer that will have event.
+
+networks:
+  contacts-sync-service_default:
+    driver: bridge
+
+services:
+  contacts-sync-service:
+    container_name: contacts-sync-service
+    #depends_on:
+    #  - "${POSTGRES_SERVER}"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${API_PORT}:80"
+    volumes:
+      - contacts-sync-service_logs:/app/logs
+    restart: always
+    environment:
+      - ConnectionStrings__DefaultConnection=User ID=${POSTGRES_USER};Password=${POSTGRES_PASSWORD};Server=${POSTGRES_SERVER};Port=${POSTGRES_PORT};Database=${POSTGRES_DBNAME}; IntegratedSecurity=true;Pooling=true;
+      - ASPNETCORE_URLS=http://+:80
+      - AuthenticationSettings__Issuer=${ISSUER}
+      - AuthenticationSettings__Audience=${AUDIENCE}
+      - AuthenticationSettings__Key=${KEY}
+      - AuthenticationSettings__Password=${PASSWORD}
+volumes:
+  contacts-sync-service_logs:

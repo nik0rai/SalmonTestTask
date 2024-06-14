@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c35b8a1a-ad98-4e02-8194-e4822afb544c",
+    "Name": "NIKO_PaymentSchedule_Detail",
+    "ModifiedOnUtc": "\/Date(1718359748000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Payment Schedule\""
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1eef3def-0468-4213-842b-7aae93f0904d",
+    "Name": "NIKO_ContactAddress_Detail",
+    "ModifiedOnUtc": "\/Date(1718359514000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contact Address"
+  }
+}

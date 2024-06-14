@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "17131df4-510e-4605-9a77-7d621d923828",
+    "Name": "ContactSectionV2",
+    "ModifiedOnUtc": "\/Date(1718122007000)\/",
+    "Parent": {
+      "UId": "0557bf34-e34a-46fa-990a-36ec59df39fa",
+      "Name": "ContactSectionV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Contacts\""
+  }
+}

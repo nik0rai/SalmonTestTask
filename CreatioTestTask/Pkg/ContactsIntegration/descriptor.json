@@ -1,0 +1,41 @@
+﻿{
+  "Descriptor": {
+    "UId": "2c0d782c-eb19-0350-4773-a9af3b00c984",
+    "Name": "ContactsIntegration",
+    "ModifiedOnUtc": "\/Date(1718036357000)\/",
+    "Maintainer": "NIKORAI",
+    "Description": "Test task that implements service which has some contact info and syncs it with creatio",
+    "DependsOn": [
+      {
+        "UId": "516f7ad2-afe0-4d38-bdc6-9e3e15a172ef",
+        "PackageVersion": "7.8.0",
+        "Name": "BaseProcessDesigner"
+      },
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      },
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      },
+      {
+        "UId": "ae73ba70-bd5e-4c4b-9977-df0e3e782102",
+        "PackageVersion": "7.8.0",
+        "Name": "GlobalSearch"
+      },
+      {
+        "UId": "b5967e5d-641c-4d1f-ad1d-a02f69fcc776",
+        "PackageVersion": "7.8.0",
+        "Name": "Deduplication"
+      }
+    ]
+  }
+}

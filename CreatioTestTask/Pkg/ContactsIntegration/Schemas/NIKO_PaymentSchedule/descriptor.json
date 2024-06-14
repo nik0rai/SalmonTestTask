@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "7ab0ef8f-9f73-48e3-a511-6acfd7dcf199",
+    "Name": "NIKO_PaymentSchedule",
+    "ModifiedOnUtc": "\/Date(1718063066000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Payment Schedule"
+  }
+}

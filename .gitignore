@@ -396,3 +396,41 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Creatio
+
+*.ar-SA.xml
+*.cs-CZ.xml
+*.de-DE.xml
+*.es-ES.xml
+*.fa-IR.xml
+*.fr-FR.xml
+*.he-IL.xml
+*.it-IT.xml
+*.nl-NL.xml
+*.pl-PL.xml
+*.pt-BR.xml
+*.ro-RO.xml
+*.uk-UA.xml
+*.sv-SE.xml
+*.th-TH.xml
+*.pt-PT.xml
+*.vi-VN.xml
+*.ar-SA.json
+*.cs-CZ.json
+*.de-DE.json
+*.es-ES.json
+*.fa-IR.json
+*.fr-FR.json
+*.he-IL.json
+*.it-IT.json
+*.nl-NL.json
+*.pl-PL.json
+*.pt-BR.json
+*.ro-RO.json
+*.uk-UA.json
+*.sv-SE.json
+*.th-TH.json
+*.pt-PT.json
+*.vi-VN.json

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.NIKO_Home.Caption" Value="Home" />
+			<Item Name="Columns.NIKO_IsActive.Caption" Value="Is Active" />
+			<Item Name="Columns.Phone.Caption" Value="Phone" />
+		</Items>
+	</Group>
+</Resources>
